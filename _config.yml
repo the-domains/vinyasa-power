@@ -1,0 +1,28 @@
+name: Vinyasa Power
+favicon: null
+layout_spectrum: 0.016144368099048734
+typography_spectrum: 0.3442156547680497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.070428037783131
+  lightness: 0.7548870400059968
+  saturation: 0.5564838524442166
+  rhythmicContrast: 0.41187359509058297
+purpose: []
